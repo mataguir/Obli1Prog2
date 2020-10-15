@@ -1,0 +1,30 @@
+C:\Users\Usuario\Documents\Eddy\Estudios\ORT\1ero\2do semestre\Programación 2\2020\Agosto-Diciembre\Obligatorio 1\Obligatorio\Consola\bin\Debug\Consola.exe.config
+C:\Users\Usuario\Documents\Eddy\Estudios\ORT\1ero\2do semestre\Programación 2\2020\Agosto-Diciembre\Obligatorio 1\Obligatorio\Consola\bin\Debug\Consola.exe
+C:\Users\Usuario\Documents\Eddy\Estudios\ORT\1ero\2do semestre\Programación 2\2020\Agosto-Diciembre\Obligatorio 1\Obligatorio\Consola\bin\Debug\Consola.pdb
+C:\Users\Usuario\Documents\Eddy\Estudios\ORT\1ero\2do semestre\Programación 2\2020\Agosto-Diciembre\Obligatorio 1\Obligatorio\Consola\bin\Debug\Dominio.dll
+C:\Users\Usuario\Documents\Eddy\Estudios\ORT\1ero\2do semestre\Programación 2\2020\Agosto-Diciembre\Obligatorio 1\Obligatorio\Consola\bin\Debug\Dominio.pdb
+C:\Users\Usuario\Documents\Eddy\Estudios\ORT\1ero\2do semestre\Programación 2\2020\Agosto-Diciembre\Obligatorio 1\Obligatorio\Consola\obj\Debug\Consola.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Eddy\Estudios\ORT\1ero\2do semestre\Programación 2\2020\Agosto-Diciembre\Obligatorio 1\Obligatorio\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Eddy\Estudios\ORT\1ero\2do semestre\Programación 2\2020\Agosto-Diciembre\Obligatorio 1\Obligatorio\Consola\obj\Debug\Consola.csproj.CopyComplete
+C:\Users\Usuario\Documents\Eddy\Estudios\ORT\1ero\2do semestre\Programación 2\2020\Agosto-Diciembre\Obligatorio 1\Obligatorio\Consola\obj\Debug\Consola.exe
+C:\Users\Usuario\Documents\Eddy\Estudios\ORT\1ero\2do semestre\Programación 2\2020\Agosto-Diciembre\Obligatorio 1\Obligatorio\Consola\obj\Debug\Consola.pdb
+C:\Users\Mataguir\Desktop\Obligatorio 1\Obligatorio\Consola\bin\Debug\Consola.exe.config
+C:\Users\Mataguir\Desktop\Obligatorio 1\Obligatorio\Consola\bin\Debug\Consola.exe
+C:\Users\Mataguir\Desktop\Obligatorio 1\Obligatorio\Consola\bin\Debug\Consola.pdb
+C:\Users\Mataguir\Desktop\Obligatorio 1\Obligatorio\Consola\bin\Debug\Dominio.dll
+C:\Users\Mataguir\Desktop\Obligatorio 1\Obligatorio\Consola\bin\Debug\Dominio.pdb
+C:\Users\Mataguir\Desktop\Obligatorio 1\Obligatorio\Consola\obj\Debug\Consola.csprojAssemblyReference.cache
+C:\Users\Mataguir\Desktop\Obligatorio 1\Obligatorio\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Mataguir\Desktop\Obligatorio 1\Obligatorio\Consola\obj\Debug\Consola.csproj.CopyComplete
+C:\Users\Mataguir\Desktop\Obligatorio 1\Obligatorio\Consola\obj\Debug\Consola.exe
+C:\Users\Mataguir\Desktop\Obligatorio 1\Obligatorio\Consola\obj\Debug\Consola.pdb
+C:\Users\Usuario\Documents\Eddy\Estudios\ORT\1ero\2do semestre\Programación 2\2020\Agosto-Diciembre\Obligatorio 1\Version del drive\Obligatorio 1\Obligatorio\Consola\bin\Debug\Consola.exe.config
+C:\Users\Usuario\Documents\Eddy\Estudios\ORT\1ero\2do semestre\Programación 2\2020\Agosto-Diciembre\Obligatorio 1\Version del drive\Obligatorio 1\Obligatorio\Consola\bin\Debug\Consola.exe
+C:\Users\Usuario\Documents\Eddy\Estudios\ORT\1ero\2do semestre\Programación 2\2020\Agosto-Diciembre\Obligatorio 1\Version del drive\Obligatorio 1\Obligatorio\Consola\bin\Debug\Consola.pdb
+C:\Users\Usuario\Documents\Eddy\Estudios\ORT\1ero\2do semestre\Programación 2\2020\Agosto-Diciembre\Obligatorio 1\Version del drive\Obligatorio 1\Obligatorio\Consola\bin\Debug\Dominio.dll
+C:\Users\Usuario\Documents\Eddy\Estudios\ORT\1ero\2do semestre\Programación 2\2020\Agosto-Diciembre\Obligatorio 1\Version del drive\Obligatorio 1\Obligatorio\Consola\bin\Debug\Dominio.pdb
+C:\Users\Usuario\Documents\Eddy\Estudios\ORT\1ero\2do semestre\Programación 2\2020\Agosto-Diciembre\Obligatorio 1\Version del drive\Obligatorio 1\Obligatorio\Consola\obj\Debug\Consola.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Eddy\Estudios\ORT\1ero\2do semestre\Programación 2\2020\Agosto-Diciembre\Obligatorio 1\Version del drive\Obligatorio 1\Obligatorio\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Eddy\Estudios\ORT\1ero\2do semestre\Programación 2\2020\Agosto-Diciembre\Obligatorio 1\Version del drive\Obligatorio 1\Obligatorio\Consola\obj\Debug\Consola.csproj.CopyComplete
+C:\Users\Usuario\Documents\Eddy\Estudios\ORT\1ero\2do semestre\Programación 2\2020\Agosto-Diciembre\Obligatorio 1\Version del drive\Obligatorio 1\Obligatorio\Consola\obj\Debug\Consola.exe
+C:\Users\Usuario\Documents\Eddy\Estudios\ORT\1ero\2do semestre\Programación 2\2020\Agosto-Diciembre\Obligatorio 1\Version del drive\Obligatorio 1\Obligatorio\Consola\obj\Debug\Consola.pdb

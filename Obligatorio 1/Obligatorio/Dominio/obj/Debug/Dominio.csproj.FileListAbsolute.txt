@@ -1,0 +1,18 @@
+C:\Users\Usuario\Documents\Eddy\Estudios\ORT\1ero\2do semestre\Programación 2\2020\Agosto-Diciembre\Obligatorio 1\Obligatorio\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Eddy\Estudios\ORT\1ero\2do semestre\Programación 2\2020\Agosto-Diciembre\Obligatorio 1\Obligatorio\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Eddy\Estudios\ORT\1ero\2do semestre\Programación 2\2020\Agosto-Diciembre\Obligatorio 1\Obligatorio\Dominio\bin\Debug\Dominio.dll
+C:\Users\Usuario\Documents\Eddy\Estudios\ORT\1ero\2do semestre\Programación 2\2020\Agosto-Diciembre\Obligatorio 1\Obligatorio\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Usuario\Documents\Eddy\Estudios\ORT\1ero\2do semestre\Programación 2\2020\Agosto-Diciembre\Obligatorio 1\Obligatorio\Dominio\obj\Debug\Dominio.dll
+C:\Users\Usuario\Documents\Eddy\Estudios\ORT\1ero\2do semestre\Programación 2\2020\Agosto-Diciembre\Obligatorio 1\Obligatorio\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Mataguir\Desktop\Obligatorio 1\Obligatorio\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Mataguir\Desktop\Obligatorio 1\Obligatorio\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Mataguir\Desktop\Obligatorio 1\Obligatorio\Dominio\obj\Debug\Dominio.dll
+C:\Users\Mataguir\Desktop\Obligatorio 1\Obligatorio\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Mataguir\Desktop\Obligatorio 1\Obligatorio\Dominio\bin\Debug\Dominio.dll
+C:\Users\Mataguir\Desktop\Obligatorio 1\Obligatorio\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Usuario\Documents\Eddy\Estudios\ORT\1ero\2do semestre\Programación 2\2020\Agosto-Diciembre\Obligatorio 1\Version del drive\Obligatorio 1\Obligatorio\Dominio\bin\Debug\Dominio.dll
+C:\Users\Usuario\Documents\Eddy\Estudios\ORT\1ero\2do semestre\Programación 2\2020\Agosto-Diciembre\Obligatorio 1\Version del drive\Obligatorio 1\Obligatorio\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Usuario\Documents\Eddy\Estudios\ORT\1ero\2do semestre\Programación 2\2020\Agosto-Diciembre\Obligatorio 1\Version del drive\Obligatorio 1\Obligatorio\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Eddy\Estudios\ORT\1ero\2do semestre\Programación 2\2020\Agosto-Diciembre\Obligatorio 1\Version del drive\Obligatorio 1\Obligatorio\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Eddy\Estudios\ORT\1ero\2do semestre\Programación 2\2020\Agosto-Diciembre\Obligatorio 1\Version del drive\Obligatorio 1\Obligatorio\Dominio\obj\Debug\Dominio.dll
+C:\Users\Usuario\Documents\Eddy\Estudios\ORT\1ero\2do semestre\Programación 2\2020\Agosto-Diciembre\Obligatorio 1\Version del drive\Obligatorio 1\Obligatorio\Dominio\obj\Debug\Dominio.pdb
